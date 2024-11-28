@@ -12,6 +12,6 @@ int* runningSum(int* nums, int numsSize, int* returnSize) {
     for (int i = 1; i < numsSize; i++) {
         result[i] = result[i-1] + nums[i];
     }
-    
+    //hola
     return result;
 }

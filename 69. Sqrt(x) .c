@@ -23,4 +23,6 @@ Usa long long para evitar desbordamiento
 Redondea hacia abajo al entero más cercano
 Maneja casos especiales como 0
 
+esto sigue funcionando?
+
 */
